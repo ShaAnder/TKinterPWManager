@@ -35,7 +35,7 @@ Simple TKinter based password manager app, allows the user to create and store p
 <h4>API</h4>
 
 <h4>Packages</h4>
-- Tkinter
+- Tkinter<br>
 - Json
 
 <h2>Installation</h2>
